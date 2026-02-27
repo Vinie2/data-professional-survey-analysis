@@ -28,3 +28,5 @@ The goal was to transform raw survey responses into meaningful business insights
 - Created relationships between tables
 - Built calculated measures using DAX
 - Designed KPI visuals and summary cards
+
+- https://github.com/Vinie2/data-professional-survey-analysis/blob/5794dce0599ebdf7d271ff3ed8b7e3c3d707505e/Screenshot%20Power%20bi.png
