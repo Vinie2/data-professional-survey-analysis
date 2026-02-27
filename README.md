@@ -29,4 +29,6 @@ The goal was to transform raw survey responses into meaningful business insights
 - Built calculated measures using DAX
 - Designed KPI visuals and summary cards
 
-https://raw.githubusercontent.com/Vinie2/data-professional-survey-analysis/5794dce0599ebdf7d271ff3ed8b7e3c3d707505e/Screenshot%20Power%20bi.png
+## Dashboard Preview
+
+![Power BI Dashboard](https://raw.githubusercontent.com/Vinie2/data-professional-survey-analysis/main/Screenshot%20Power%20bi.png)
